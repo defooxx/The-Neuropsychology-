@@ -61,3 +61,6 @@ Mens sana in corpore sano
 	•	green tea
 	•	regular physical activity
 	•	good sleep
+
+## Key takeways
+The mind–body connection shows that mental states and physical health are deeply interconnected. Phenomena such as the placebo effect shows that belief and expectation can influence physiological responses. This challenges the idea that the mind and body operate independently and suggests that psychological factors play an impportant role in overall well-being.
