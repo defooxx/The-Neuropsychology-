@@ -1,4 +1,4 @@
-#Brain Structures and Emotion
+# Brain Structures and Emotion
 
 One important brain region involved in emotional processing is the amygdala.
 
@@ -11,7 +11,7 @@ The amygdala (located in both hemispheres of the brain) plays a key role in:
 It helps the brain quickly respond to potentially dangerous situations.
 
 
-##Psychosomatic Medicine
+## Psychosomatic Medicine
 
 Psychosomatic medicine studies how mental states influence physical health.
 
@@ -23,7 +23,7 @@ Psychological factors such as stress, belief and emotion can affect:
 This field challenges the idea that the mind and body operate completely separately.
 
 
-##The Placebo Effect
+## The Placebo Effect
 
 The placebo effect demonstrates the powerful connection between belief and the body.
 
@@ -32,7 +32,7 @@ When people believe a treatment will help them, their expectations alone can som
 This shows that mental beliefs can influence physical outcomes.
 
 
-###Mind–Body Dualism and Health Behavior
+### Mind–Body Dualism and Health Behavior
 
 Research suggests that belief in strong mind–body separation can influence health behavior.
 
@@ -40,13 +40,13 @@ Studies have found that people who strongly believe in dualism may be less likel
 
 Researchers sometimes refer to this connection as:
 
-BSMWB — Bodily States and Mental Well-Being
+### BSMWB — Bodily States and Mental Well-Being
 
 This concept highlights how physical health and psychological well-being influence each other.
 
 
 
-###Supporting Mental and Brain Health
+### Supporting Mental and Brain Health
 
 Maintaining both physical and mental health is important.
 
@@ -55,7 +55,7 @@ The ancient Roman phrase expresses this idea well:
 Mens sana in corpore sano
 “A sound mind in a sound body.”
 
-###Certain lifestyle habits can support brain health, including:
+### Certain lifestyle habits can support brain health, including:
 	•	blueberries
 	•	dark chocolate
 	•	green tea
