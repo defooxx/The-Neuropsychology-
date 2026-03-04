@@ -40,7 +40,7 @@ Studies have found that people who strongly believe in dualism may be less likel
 
 Researchers sometimes refer to this connection as:
 
-### BSMWB — Bodily States and Mental Well-Being
+> BSMWB — Bodily States and Mental Well-Being
 
 This concept highlights how physical health and psychological well-being influence each other.
 
