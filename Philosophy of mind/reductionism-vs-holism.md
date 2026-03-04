@@ -1,4 +1,4 @@
-Reductionism vs Holism
+# Reductionism vs Holism
 
 Another important debate in psychology is whether mental phenomena can be fully explained by biology.
 
@@ -19,7 +19,7 @@ In extreme reductionism, consciousness might be explained as:
 
 ⸻
 
-Holism (Against Reductionism)
+# Holism (Against Reductionism)
 
 Holism argues that some truths only appear at higher levels of organization.
 
@@ -31,7 +31,7 @@ For example, individual neurons do not contain consciousness but when billions o
 
 ⸻
 
-Mental States vs Brain States
+# Mental States vs Brain States
 
 Neuropsychology tries to understand the relationship between:
 	•	Mental states — thoughts, emotions, perceptions
